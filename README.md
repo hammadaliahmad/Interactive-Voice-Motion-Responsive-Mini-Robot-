@@ -8,8 +8,8 @@ A hand-built embedded system powered by an ESP32 microcontroller, featuring voic
 
 > 📸 *(Photos of the board powered on)*
 
-![Board front view](image 1.jpeg)
-![Board angle view](image 2.jpeg)
+![Board front view](image1.jpeg)
+![Board angle view](image2.jpeg)
 
 > 🎥 *(Video demo — add link here once uploaded to YouTube/Google Drive)*
 
